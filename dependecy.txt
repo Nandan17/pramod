@@ -1,0 +1,11 @@
+For 
+Discovery :
+      Eureka server
+Gateway :
+     Eureka discovery client
+     Spring web 
+     Spring boot actuator
+     Gateway
+ M1 and M2
+     Spring web
+     Eureka discovery client
